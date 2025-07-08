@@ -147,14 +147,6 @@ const Hero = () => {
           <div className="text-sm sm:text-2xl font-serif font-bold whitespace-nowrap sm:ml-[40px]">J Curve by Avi</div>
           <div className="flex gap-1 sm:gap-6">
             <motion.a
-              href="/contact-book"
-              className="px-2 py-1 text-xs sm:px-6 sm:py-3 sm:text-xl bg-gradient-to-r from-blue-600 to-purple-600 rounded-full text-white font-medium hover:from-blue-700 hover:to-purple-700 transition-all duration-300 whitespace-nowrap"
-              whileHover={{ scale: 1.05 }}
-              whileTap={{ scale: 0.95 }}
-            >
-              Book your free audit
-            </motion.a>
-            <motion.a
               href="https://calendly.com/avi-jcurvebyavi/30min"
               target="_blank"
               rel="noopener noreferrer"

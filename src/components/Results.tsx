@@ -4,7 +4,7 @@ import { motion } from 'framer-motion';
 
 const results = [
   {
-    metric: "$500+ Revenue",
+    metric: "$500k+ Revenue",
     period: "Generated in 12 Months",
     description: "Consistent monetization through content strategy, client work, and digital offerings.",
     color: "from-purple-400 to-pink-400"
